@@ -7999,7 +7999,7 @@ a.text-dark:hover, a.text-dark:focus {
 body {
   font-family: "Poppins", Arial, sans-serif;
   background: #fff;
-  font-size: 17px;
+  font-size: 15px;
   line-height: 2;
   font-weight: 400;
   color: #666666; }
@@ -8042,7 +8042,7 @@ h1, h2, h3, h4, h5,
 .ftco-navbar-light {
   background: transparent !important;
   position: absolute;
-  top: 50px;
+  top: 10px;
   left: 0;
   right: 0;
   z-index: 3;
@@ -8064,7 +8064,7 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light .navbar-nav {
       padding-bottom: 10px; } }
   .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-    font-size: 14px;
+    font-size: 17px;
     padding-top: .8rem;
     padding-bottom: .8rem;
     padding-left: 20px;
@@ -8207,7 +8207,7 @@ h1, h2, h3, h4, h5,
 
 .navbar-brand {
   font-weight: 900;
-  font-size: 20px; }
+  font-size: 28px; }
 
 .hero-wrap {
   width: 100%;
@@ -8230,9 +8230,9 @@ h1, h2, h3, h4, h5,
     opacity: .5;
     background: #000000; }
   .hero-wrap.hero-wrap-2 {
-    height: 400px; }
+    height: 200px; }
     .hero-wrap.hero-wrap-2 .slider-text {
-      height: 400px; }
+      height: 200px; }
       .hero-wrap.hero-wrap-2 .slider-text .bread {
         font-weight: 900;
         color: #fff;
@@ -8813,7 +8813,7 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
-  padding: 7em 0;
+  padding: 2.5em 0;
   position: relative; }
 
 .ftco-no-pt {
